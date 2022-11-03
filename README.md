@@ -6,4 +6,4 @@ Main Task:
 * Define optimal data models to support the consumption of information
 * General project leadership and management
 
-![Logo](https://logos-world.net/wp-content/uploads/2021/10/Tata-Logo.png)
+![Logo](https://github.com/JerylLee/Tata-Internship-Project/blob/main/Screen%20Shot%202022-11-02%20at%209.25.00%20PM.png?raw=true)
